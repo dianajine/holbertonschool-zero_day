@@ -1,0 +1,1 @@
+This is a project that shows the shortcuts for some functions in Emacs.
