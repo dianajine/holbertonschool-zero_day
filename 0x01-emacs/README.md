@@ -1,1 +1,1 @@
-This is a project that shows the shortcuts for some functions in Emacs.
+This is a project that shows the shortcuts for some functions in Emacs.  It also required the installation of Emacs on my virtual machine.
